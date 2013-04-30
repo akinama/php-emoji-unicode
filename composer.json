@@ -1,0 +1,9 @@
+{
+  "name": "akinama/php-emoji-unicode",
+  "description": "Unicode 6.0 and GREE Emoji Convert Library",
+  "autoload": {
+    "psr-0": {
+      "GEmoji": "src/"
+    }
+  }
+}
